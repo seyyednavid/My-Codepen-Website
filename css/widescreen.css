@@ -1,0 +1,12 @@
+/* Align icon to left */
+#favourite .items .item {
+  display: flex;
+  text-align: left;
+}
+/* Position icon */
+#favourite .items .item .img_f {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
+
